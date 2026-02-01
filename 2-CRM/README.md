@@ -1,1 +1,5 @@
-
+- CRM Analitiği 
+- RFM Analizi
+- Müşteri Yaşam Boyu Değeri 
+- Müşteri Yaşam Boyu Değeri Tahmini
+eğitimlerini tamamladım
