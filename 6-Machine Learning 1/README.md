@@ -1,76 +1,84 @@
-############################################################
-# MACHINE LEARNING MODEL TÜRLERİ ÖZET
-############################################################
+# 🧠 Machine Learning Model Türleri – Kısa Özet
 
-# ----------------------------------------------------------
-# 1) SUPERVISED LEARNING (Denetimli Öğrenme)
-# ----------------------------------------------------------
-# Target (y) vardır.
-# Amaç: X kullanarak y tahmin etmek
+Makine öğrenmesi problemleri genel olarak **supervised** ve **unsupervised** olmak üzere iki ana gruba ayrılır.
 
-# İkiye ayrılır:
-# REGRESSION ve CLASSIFICATION
+---
+
+## 🔹 1. Supervised Learning (Denetimli Öğrenme)
+
+Bu öğrenme türünde veri setinde bir **target (y)** değişkeni bulunur.  
+Amaç: Bağımsız değişkenleri (X) kullanarak target değişkeni tahmin etmektir.
+
+Supervised learning ikiye ayrılır:
+
+### 📊 Regression
+Target değişken **sayısal (numeric)** ise kullanılır.
+
+**Örnek problemler:**
+- Maaş tahmini (Salary)
+- Ev fiyatı tahmini
+- Satış tahmini
+
+**Regression modelleri:**
+- Linear Regression
+- Ridge Regression
+- Lasso Regression
+- ElasticNet
+- Decision Tree Regressor
+- Random Forest Regressor
+- Gradient Boosting Regressor
+- XGBoost Regressor
+- LightGBM Regressor
+- SVR (Support Vector Regression)
+- KNN Regressor
+
+Bu modeller sayısal değer tahmini yapar.
+
+---
+
+### 📊 Classification
+Target değişken **kategorik** ise kullanılır.
+
+**Örnek problemler:**
+- Müşteri churn tahmini (0/1)
+- Spam mail sınıflandırma
+- Hastalık var/yok tahmini
+
+**Classification modelleri:**
+- Logistic Regression
+- KNN Classifier
+- SVC (Support Vector Machine)
+- Decision Tree Classifier
+- Random Forest Classifier
+- Gradient Boosting Classifier
+- XGBoost Classifier
+- LightGBM Classifier
+- Naive Bayes
+
+Bu modeller sınıf tahmini yapar.
+
+---
+
+## 🔹 2. Unsupervised Learning (Denetimsiz Öğrenme)
+
+Bu öğrenme türünde **target değişken yoktur**.  
+Amaç: Veri içerisindeki gizli yapıları ve örüntüleri keşfetmektir.
+
+**Unsupervised modeller:**
+- K-Means Clustering
+- Hierarchical Clustering
+- DBSCAN
+- PCA (Principal Component Analysis)
+- Association Rule Learning
+
+---
+
+## 🔹 Hızlı Ezber Formülü
+
+- Target numeric → **Regression**
+- Target kategorik → **Classification**
+- Target yok → **Unsupervised**
+
+---
 
 
-# ----------------------------------------------------------
-# REGRESSION MODELLERİ
-# ----------------------------------------------------------
-# Target numeric ise kullanılır.
-# Örnek: Salary, Price, House Price, Sales
-
-# Regression modelleri:
-# LinearRegression
-# Ridge
-# Lasso
-# ElasticNet
-# DecisionTreeRegressor
-# RandomForestRegressor
-# GradientBoostingRegressor
-# XGBoostRegressor
-# LightGBMRegressor
-# SVR (Support Vector Regression)
-# KNN Regressor
-
-# Numeric değer tahmin ederler.
-
-
-# ----------------------------------------------------------
-# CLASSIFICATION MODELLERİ
-# ----------------------------------------------------------
-# Target kategorik ise kullanılır.
-# Örnek: Churn (0-1), Spam (yes/no), Hastalık var/yok
-
-# Classification modelleri:
-# LogisticRegression
-# KNN Classifier
-# SVC (Support Vector Machine)
-# DecisionTreeClassifier
-# RandomForestClassifier
-# GradientBoostingClassifier
-# XGBoostClassifier
-# LightGBMClassifier
-# Naive Bayes
-
-# Sınıf tahmini yaparlar.
-
-
-# ----------------------------------------------------------
-# UNSUPERVISED LEARNING (Denetimsiz Öğrenme)
-# ----------------------------------------------------------
-# Target yoktur.
-# Amaç: veri içindeki yapıyı keşfetmek
-
-# Unsupervised modeller:
-# KMeans (clustering)
-# Hierarchical Clustering
-# DBSCAN
-# PCA (dimension reduction)
-# Association Rules
-
-
-# ----------------------------------------------------------
-# EZBER FORMÜL
-# ----------------------------------------------------------
-# Target numeric  → Regression
-# Target kategorik → Classification
-# Target yok → Unsupervised
