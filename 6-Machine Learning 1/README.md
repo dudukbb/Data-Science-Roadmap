@@ -34,6 +34,12 @@ Target değişken **sayısal (numeric)** ise kullanılır.
 
 Bu modeller sayısal değer tahmini yapar.
 
+**Regression evaluation metrikleri:**
+- RMSE (en yaygın)
+- MSE
+- MAE
+- R2
+
 ---
 
 ### 📊 Classification
@@ -57,6 +63,15 @@ Target değişken **kategorik** ise kullanılır.
 
 Bu modeller sınıf tahmini yapar.
 
+**Classification evaluation metrikleri:**
+- Accuracy
+- Precision
+- Recall
+- F1-score 
+- ROC-AUC
+
+Dengesiz veri varsa F1-score ve Recall tercih edilir.
+
 ---
 
 ## 🔹 2. Unsupervised Learning (Denetimsiz Öğrenme)
@@ -70,6 +85,12 @@ Amaç: Veri içerisindeki gizli yapıları ve örüntüleri keşfetmektir.
 - DBSCAN
 - PCA (Principal Component Analysis)
 - Association Rule Learning
+
+**Unsupervised evaluation metrikleri**
+- Silhouette Score (Clustering)
+- Inertia (K-Means)
+- Explained Variance (PCA)
+
 
 ---
 
