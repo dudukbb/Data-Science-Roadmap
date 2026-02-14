@@ -1,6 +1,6 @@
 # 🧠 Machine Learning Model Türleri – Kısa Özet
 
-Makine öğrenmesi problemleri genel olarak **supervised** ve **unsupervised** olmak üzere iki ana gruba ayrılır.
+Makine öğrenmesi problemleri genel olarak **supervised** , **unsupervised** ve **reinforcement learning** olmak üzere üç ana gruba ayrılır.
 
 ---
 
