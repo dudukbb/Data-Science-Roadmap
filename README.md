@@ -51,8 +51,3 @@ Below is the roadmap I follow to improve myself in Data Science and Artificial I
 - Model Deployment on Cloud  
 
 ---
-
-## 📂 Related Projects
-- Thermal Image-Based Depth Estimation (Graduation Project)  
-- Kaggle Projects  
-- Data Analysis & Machine Learning Projects  
