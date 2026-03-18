@@ -1,4 +1,3 @@
-# Data-Science-Roadmap
 # 🚀 AI & Data Science Roadmap
 
 Below is the roadmap I follow to improve myself in Data Science and Artificial Intelligence:
