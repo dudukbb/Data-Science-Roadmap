@@ -4,8 +4,14 @@
 Below is the roadmap I follow to improve myself in Data Science and Artificial Intelligence:
 
 ---
+## 1.Data Scientist  Bootcamp
 
-## 🧠 1. Deep Learning Path
+
+
+
+---
+
+## 🧠 2. Deep Learning Path
 - Introduction to Deep Learning  
 - Logistic Regression  
 - Artificial Neural Networks (ANN)  
@@ -14,7 +20,7 @@ Below is the roadmap I follow to improve myself in Data Science and Artificial I
 
 ---
 
-## 🤖 2. Generative AI & Prompt Engineering
+## 🤖 3. Generative AI & Prompt Engineering
 - Theoretical Foundations  
 - Basic Operations  
 - LangChain Framework  
@@ -25,7 +31,7 @@ Below is the roadmap I follow to improve myself in Data Science and Artificial I
 
 ---
 
-## ⚙️ 3. Data Engineering Path
+## ⚙️ 4. Data Engineering Path
 - Python for Data Engineering  
 - Big Data Fundamentals  
 - Apache Spark  
@@ -35,16 +41,11 @@ Below is the roadmap I follow to improve myself in Data Science and Artificial I
 
 ---
 
-## ☁️ 4. Cloud (Azure for Data Science)
+## ☁️ 5. Cloud (Azure for Data Science)
 - Azure Fundamentals  
 - Azure Data Services  
 - Azure AI Services  
 - Model Deployment on Cloud  
-
----
-
-## 💡 My Goal
-To become a Data Scientist specialized in AI and Deep Learning.
 
 ---
 
