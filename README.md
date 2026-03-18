@@ -4,10 +4,14 @@
 Below is the roadmap I follow to improve myself in Data Science and Artificial Intelligence:
 
 ---
-## 1.Data Scientist  Bootcamp
-
-
-
+## 📊 1. Data Science Bootcamp
+- Python
+- CRM Analytics
+- Measurement Problems
+- Recommendation Systems
+- Feature Engineering
+- Machine Learning
+- Querying MS SQL
 
 ---
 
