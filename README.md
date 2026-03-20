@@ -1,53 +1,11 @@
 # 🚀 AI & Data Science Roadmap
 
-Below is the roadmap I follow to improve myself in Data Science and Artificial Intelligence:
+## 📌 About This Roadmap
 
----
-## 📊 1. Data Science Bootcamp
-- Python
-- CRM Analytics
-- Measurement Problems
-- Recommendation Systems
-- Feature Engineering
-- Machine Learning
-- Querying MS SQL
+I am following this roadmap to improve my skills in Data Science and Artificial Intelligence.
 
----
+I have successfully completed a Data Science Bootcamp, where I gained hands-on experience in data analysis, machine learning, and real-world projects.
 
-## 🧠 2. Deep Learning Path
-- Introduction to Deep Learning  
-- Logistic Regression  
-- Artificial Neural Networks (ANN)  
-- Convolutional Neural Networks (CNN)  
-- Sequence Models  
+Currently, I am continuing my learning journey with a Deep Learning program and actively working on improving my knowledge in AI.
 
----
-
-## 🤖 3. Generative AI & Prompt Engineering
-- Theoretical Foundations  
-- Basic Operations  
-- LangChain Framework  
-- Retrieval-Augmented Generation (RAG)  
-- Autonomous Agents  
-- Fine-tuning & Open Source Models  
-- Prompt Engineering Techniques  
-
----
-
-## ⚙️ 4. Data Engineering Path
-- Python for Data Engineering  
-- Big Data Fundamentals  
-- Apache Spark  
-- Real-time Data Processing  
-- NoSQL Databases  
-- Data Pipelines & Workflow Management  
-
----
-
-## ☁️ 5. Cloud (Azure for Data Science)
-- Azure Fundamentals  
-- Azure Data Services  
-- Azure AI Services  
-- Model Deployment on Cloud  
-
----
+Throughout this roadmap, I am not only learning the concepts but also practicing them through projects and implementations.
